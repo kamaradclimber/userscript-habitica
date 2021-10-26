@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Habitica tab selector
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Automatically select proper tabs when opening habitica
 // @author       kamaradclimber
 // @match        https://habitica.com/
+// @license      Apache-2.0
 // @icon         https://www.google.com/s2/favicons?domain=habitica.com
 // @grant        none
 // ==/UserScript==
